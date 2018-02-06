@@ -1,4 +1,4 @@
-# Vagrant scripts for an EventStore machine
+# Vagrant script for an EventStore machine
 
 ## Requirements
 
